@@ -1,16 +1,89 @@
-## Hi there 👋
+<!-- Fondo animado estilo Matrix -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<!--
-**BiancaMichelle/BiancaMichelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="center">
+  <img src="https://github.com/BiancaMichelle.png" width="180" style="border-radius:50; border:4 solid #bb86fc;" />
+</p> -->
 
-Here are some ideas to get you started:
+<h1 align="center" style="color:#bb86fc;">
+  <strong>Hola, soy Bianca Michelle 👩‍💻</strong>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=BB86FC&center=true&vCenter=true&width=900&lines=Primero,+resolvé+el+problema.+Después,+escribí+el+código.;Licenciada+en+Sistemas+(en+formación);Analista+de+Sistemas+@+UNaM" />
+</p>
+
+<!-- LÍNEA NEÓN -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## 💜 Sobre mí
+
+- 🎓 Estudiante de **Licenciatura y Analista en Sistemas** en la **UNaM**
+- 🌱 En formación continua
+---
+
+## 🔧 Tecnologías y herramientas favoritas
+
+### ⚙️ Lenguajes & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,py,c,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=laravel,spring,tailwind" />
+</p>
+
+### 🛢️ Bases de datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🧰 Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+<!-- LÍNEA NEÓN -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## 📊 Estadísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BiancaMichelle&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=BiancaMichelle&theme=midnight-purple&hide_border=true" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiancaMichelle&theme=react-dark&color=bb86fc&line=bb86fc&point=ffffff&area=true" />
+</p>
+
+---
+
+## 🏆 Logros y contribuciones
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BiancaMichelle&theme=onestar&no-bg=true&margin-w=10" />
+</p>
+
+<!-- LÍNEA NEÓN -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## 🌐 Conectá conmigo
+
+<p align="center">
+  <a href="mailto:michellebianca.2002@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/BiancaMichelle"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/bianca-eitner-2a797126a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/bianca.michelle.353"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/biancaa_michelle/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
+<!-- LÍNEA NEÓN -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> 
+  <em><b>¡Gracias por visitar mi perfil!</b> 🌟</em>
+</p>
+
+<!-- Snake contribution -->
+<div align="center">
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
+</div>
+

@@ -22,7 +22,7 @@
 - 🌱 En formación continua
 ---
 
-## 🔧 Tecnologías y herramientas favoritas
+## 🔧 Tecnologías y herramientas trabajadas
 
 ### ⚙️ Lenguajes & Frameworks
 <p align="left">

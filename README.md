@@ -51,7 +51,16 @@
   <img src="https://streak-stats.demolab.com?user=BiancaMichelle&theme=midnight-purple&hide_border=true" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiancaMichelle&theme=react-dark&color=bb86fc&line=bb86fc&point=ffffff&area=true" />
+
+  <a href="https://github.com/BiancaMichelle" align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMichelle&langs_count=10&title_color=d8b4fe&text_color=c4b5fd&icon_color=a78bfa&bg_color=1e1b2c&hide_border=true&locale=en&custom_title=Top%20Languages"
+    alt="Top Languages"
+  />
+</a>
 </p>
+
+
 
 ---
 
@@ -82,7 +91,8 @@
   <em><b>¡Gracias por visitar mi perfil!</b> 🌟</em>
 </p>
 
-<!-- Snake contribution -->
+<!-- Snake contribution 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BiancaMichelle/BiancaMichelle/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+-->

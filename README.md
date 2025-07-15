@@ -87,7 +87,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /> 
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNucm81MnJkNTFlOXo2NzJtY3Vvbm02d3hxYzZ3bmltOTNoc29hMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2EEWKLtxBn2khm075/giphy.gif" width="200" style="vertical-align: middle; margin-right: 20px;" />
+  </br
   <em><b>¡Gracias por visitar mi perfil!</b> 🌟</em>
 </p>
 

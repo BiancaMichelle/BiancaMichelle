@@ -16,15 +16,14 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: BiancaMichelle
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
 
-      - name: Show output folder (debug)
+      - name: Show output folder
         run: ls -la dist
 
-      - name: Publish snake to GitHub Pages
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
-          publish_dir: ./dist
+          publish_dir: dist
